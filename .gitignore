@@ -1,0 +1,9 @@
+.DS_Store
+/*.glb
+/*.gltf
+/web/node_modules/
+/web/dist/
+/web/.vite/
+/.git-cloud-backup/
+# Unused duplicate from the discarded static draft; preserved locally.
+/docs/archive/static-draft/assets/robot-hero 2.jpg

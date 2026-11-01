@@ -1,0 +1,9 @@
+{
+  "name": "binarybolts-8570",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix web run dev --",
+    "build": "npm --prefix web run build",
+    "model:optimize": "npm --prefix web run model:optimize"
+  }
+}
